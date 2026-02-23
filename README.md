@@ -4,7 +4,11 @@
 
 You can either **build it yourself**,  
 or **order one via Instagram: _TiagTiag43_**.
-<img src="https://github.com/Tiag-Tiag/image/blob/main/tranparent.png" width="143"> 
+</div>
+<div align="center">
+  <sub>Designed by</sub><br>
+  <img src="https://github.com/Tiag-Tiag/image/blob/main/tranparent.png" width="143"> 
+</div>
 ---
 
 ## **Top**
