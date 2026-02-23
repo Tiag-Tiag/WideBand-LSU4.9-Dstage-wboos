@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# **WideBand controler for LSU4.9 with Dstage WBOOS**
+# **WideBand controler for LSU4.9 with Dstage WBOOS Firmware**
 
 You can either **build it yourself**, or **order one via Instagram: _TiagTiag43_**.
 
